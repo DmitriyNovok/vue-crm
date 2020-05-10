@@ -1,14 +1,21 @@
-composer.phar
-node_modules/
-vendor/
-package-lock.json
-npm-debug.log
-public/.DS_Store
-core/
-
 .DS_Store
+node_modules
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
 .idea
-.idea/
+.vscode
 *.suo
 *.ntvs*
 *.njsproj
+*.sln
+*.sw?
