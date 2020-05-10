@@ -1,0 +1,14 @@
+composer.phar
+node_modules/
+vendor/
+package-lock.json
+npm-debug.log
+public/.DS_Store
+core/
+
+.DS_Store
+.idea
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
