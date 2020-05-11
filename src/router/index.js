@@ -27,7 +27,33 @@ const routes = [
         name: 'history',
         meta:{layout: 'main'},
         component: () => import('../views/History.vue')
-    }
+    },
+    {
+        path: '/detail-record',
+        name: 'detail-record',
+        component: () => import('../views/DetailRecord.vue')
+    },
+    {
+        path: '/planning',
+        name: 'planning',
+        component: () => import('../views/Planning.vue')
+    },
+    {
+        path: '/profile',
+        name: 'profile',
+        component: () => import('../views/Profile.vue')
+    },
+    {
+        path: '/record',
+        name: 'record',
+        component: () => import('../views/Record.vue')
+    },
+    {
+        path: '/register',
+        name: 'register',
+        component: () => import('../views/Register.vue')
+    },
+
 ]
 
 const router = new VueRouter({
