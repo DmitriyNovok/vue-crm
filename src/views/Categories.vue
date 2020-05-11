@@ -46,13 +46,13 @@
                             </div>
 
                             <div class="input-field">
-                                <input type="text" id="name">
+                                <input type="text">
                                 <label for="name">Название</label>
                                 <span class="helper-text invalid">TITLE</span>
                             </div>
 
                             <div class="input-field">
-                                <input id="limit" type="number">
+                                <input type="number">
                                 <label for="limit">Лимит</label>
                                 <span class="helper-text invalid">LIMIT</span>
                             </div>

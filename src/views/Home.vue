@@ -1,12 +1,6 @@
 <template>
   <div class="home">
-    <p>Home Page CRM</p>
+    <h3>Home Page CRM</h3>
   </div>
 </template>
 
-<script>
-
-export default {
-  name: 'Home'
-}
-</script>

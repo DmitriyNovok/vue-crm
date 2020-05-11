@@ -6,15 +6,9 @@
         </div>
         <section>
             <div>
-                <p>
-                    <strong>Девушка:</strong>
-                    12 122 из 14 0000
-                </p>
-                <div class="progress" >
-                    <div
-                            class="determinate green"
-                            style="width:40%"
-                    ></div>
+                <p><strong>Девушка:</strong>12 122 из 14 0000</p>
+                <div class="progress">
+                    <div class="determinate green" style="width:40%"></div>
                 </div>
             </div>
         </section>

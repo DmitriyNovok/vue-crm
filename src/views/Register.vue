@@ -34,7 +34,7 @@
 
             <p class="center">
                 Уже есть аккаунт?
-                <a href="/login">Войти!</a>
+                <a href="/login">Авторизоваться</a>
             </p>
         </div>
     </form>
